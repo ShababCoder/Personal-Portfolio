@@ -1,5 +1,4 @@
-# Personal-Portfolio-2-starter-pack
-  * https://youtubebinjanportfolio.pages.dev
+# Personal-Portfolio
 
 ## Fonts link
   * https://stijndv.com/fonts/Eudoxus-Sans.css
